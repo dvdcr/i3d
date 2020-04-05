@@ -1,0 +1,3 @@
+Anycubic i3 MEGA Raspberry Pi case for OctoPrint (https://www.thingiverse.com/thing:2754779) by FischC is licensed under the Creative Commons - Attribution license.
+http://creativecommons.org/licenses/by/3.0/
+
